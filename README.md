@@ -1,6 +1,6 @@
-# sell
+# vue
 
-> sell app
+> vue app
 
 ## Build Setup
 
